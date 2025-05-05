@@ -1,0 +1,8 @@
+This tutorial gives you step by step guide on how to install node .js
+
+Download nvm-setup.zip file from the below repository
+https://github.com/coreybutler/nvm-windows/releases
+
+There are some commands mainly used for node---
+node -v
+nvm use [version name] , eg- nvm use 12
